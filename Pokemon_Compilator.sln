@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon_Compilator", "Pokemon_Compilator\Pokemon_Compilator.csproj", "{99ECD1DC-0A49-4E83-A201-7428C4F8EC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Poki Compiler|Any CPU = Poki Compiler|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99ECD1DC-0A49-4E83-A201-7428C4F8EC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ECD1DC-0A49-4E83-A201-7428C4F8EC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ECD1DC-0A49-4E83-A201-7428C4F8EC19}.Poki Compiler|Any CPU.ActiveCfg = Poki Compiler|Any CPU
+		{99ECD1DC-0A49-4E83-A201-7428C4F8EC19}.Poki Compiler|Any CPU.Build.0 = Poki Compiler|Any CPU
+		{99ECD1DC-0A49-4E83-A201-7428C4F8EC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ECD1DC-0A49-4E83-A201-7428C4F8EC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86BF91C-16AF-46EF-8968-CBD3047E8CEA}
+	EndGlobalSection
+EndGlobal

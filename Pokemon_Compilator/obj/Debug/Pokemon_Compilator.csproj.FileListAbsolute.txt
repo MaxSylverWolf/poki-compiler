@@ -1,0 +1,71 @@
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Form1.resources
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.GenerateResource.cache
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe.config
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.exe
+C:\Users\Sebastian\Documents\Visual Studio 2017\Projects\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.pdb
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe.config
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.pdb
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csprojAssemblyReference.cache
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Form1.resources
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Properties.Resources.resources
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.GenerateResource.cache
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.CoreCompileInputs.cache
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.exe
+D:\uczelnia\UPH Informatyka Magisterskie\Semestr 2\Sieci i Systemy Wirtualne\Laboratorium\Projekt\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe.config
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Form1.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Properties.Resources.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe.config
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csprojResolveAssemblyReference.cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Form1.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Properties.Resources.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.About.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Starter.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe.config
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csprojResolveAssemblyReference.cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.About.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Form1.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Properties.Resources.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Starter.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Helper.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Keyboard.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Changelog.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe.config
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\bin\Debug\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csprojResolveAssemblyReference.cache
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.About.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Changelog.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Form1.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Helper.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Keyboard.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Properties.Resources.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.Starter.resources
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\08.06.2019\Pokemon_Compilator\working\Pokemon_Compilator\obj\Debug\Pokemon_Compilator.pdb

@@ -1,0 +1,15 @@
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\bin\Poki Compiler\Pokemon_Compilator.exe.config
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\bin\Poki Compiler\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\bin\Poki Compiler\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.About.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.Changelog.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.Form1.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.Helper.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.Keyboard.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.Properties.Resources.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.Starter.resources
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.exe
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.pdb
+C:\Users\maxsy\Desktop\Pokemon_Compilator\pokemon-compiler-bitbucket\Pokemon_Compilator\obj\Poki Compiler\Pokemon_Compilator.csprojResolveAssemblyReference.cache
